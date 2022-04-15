@@ -1,0 +1,54 @@
+L:\OOP\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+L:\OOP\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+L:\OOP\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+L:\OOP\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+L:\OOP\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+L:\OOP\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.Form1.resources
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.GenerateResource.cache
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.FormCPU.resources
+L:\OOP\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.FormGPU.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.Form1.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.FormCPU.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.FormGPU.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.GenerateResource.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.Form1.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.FormCPU.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.FormGPU.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.csproj.GenerateResource.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_2_3\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache

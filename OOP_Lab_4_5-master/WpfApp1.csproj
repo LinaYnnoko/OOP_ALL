@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="free-icon-italic-font-5099336.png" />
+    <None Remove="free-icon-open-folder-4080838.png" />
+    <None Remove="free-icon-underlined-1142404.png" />
+    <None Remove="premium-icon-bold-2356638.png" />
+    <None Remove="premium-icon-save-4892790.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="free-icon-italic-font-5099336.png" />
+    <Resource Include="free-icon-open-folder-4080838.png" />
+    <Resource Include="free-icon-underlined-1142404.png" />
+    <Resource Include="premium-icon-bold-2356638.png" />
+    <Resource Include="premium-icon-save-4892790.png" />
+  </ItemGroup>
+
+</Project>

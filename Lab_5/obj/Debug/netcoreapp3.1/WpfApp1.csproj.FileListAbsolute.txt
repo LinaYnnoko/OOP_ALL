@@ -1,0 +1,56 @@
+L:\OOP\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+L:\OOP\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+L:\OOP\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+L:\OOP\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+L:\OOP\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+L:\OOP\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+L:\OOP\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_4_5\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\bin\Debug\netcoreapp3.1\WpfApp1.exe
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\bin\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.dll
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.pdb
+C:\Users\Lina Ynnoko\Desktop\ООП\лабы\Lab_6\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
